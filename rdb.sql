@@ -26,4 +26,4 @@ CREATE TABLE RDBschema.rCoach
 );
 GO
 
-SELECT FIRST_NAME firstName;
+SELECT FIRST_NAME firstNametest;
